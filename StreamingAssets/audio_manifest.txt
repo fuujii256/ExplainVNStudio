@@ -1,0 +1,10 @@
+Audio/BGM/bgm1.mp3
+Audio/BGM/bgm2.mp3
+Audio/BGM/fanfarre.mp3
+Audio/SE/hit1.mp3
+Audio/SE/hit2.mp3
+Audio/SE/hit3.mp3
+Audio/SE/hit4.mp3
+Audio/SE/punyu.mp3
+Audio/SE/se_surprise.mp3
+Audio/SE/tiin.mp3
